@@ -1,0 +1,10 @@
+D:\Dokuments\ООП\LR2\lab2\lab2\bin\Debug\lab2.exe.config
+D:\Dokuments\ООП\LR2\lab2\lab2\bin\Debug\lab2.exe
+D:\Dokuments\ООП\LR2\lab2\lab2\bin\Debug\lab2.pdb
+D:\Dokuments\ООП\LR2\lab2\lab2\obj\Debug\lab2.csprojResolveAssemblyReference.cache
+D:\Dokuments\ООП\LR2\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+D:\Dokuments\ООП\LR2\lab2\lab2\obj\Debug\lab2.exe
+D:\Dokuments\ООП\LR2\lab2\lab2\obj\Debug\lab2.pdb
+d:\Dokuments\ООП\LR2\lab2\lab2\bin\Debug\System.ValueTuple.dll
+d:\Dokuments\ООП\LR2\lab2\lab2\bin\Debug\System.ValueTuple.xml
+d:\Dokuments\ООП\LR2\lab2\lab2\obj\Debug\lab2.csproj.CopyComplete
