@@ -1,0 +1,7 @@
+D:\Dokuments\ООП\LR3.1\LR3.1\bin\Debug\LR3.1.exe.config
+D:\Dokuments\ООП\LR3.1\LR3.1\bin\Debug\LR3.1.exe
+D:\Dokuments\ООП\LR3.1\LR3.1\bin\Debug\LR3.1.pdb
+D:\Dokuments\ООП\LR3.1\LR3.1\obj\Debug\LR3.1.csprojResolveAssemblyReference.cache
+D:\Dokuments\ООП\LR3.1\LR3.1\obj\Debug\LR3.1.csproj.CoreCompileInputs.cache
+D:\Dokuments\ООП\LR3.1\LR3.1\obj\Debug\LR3.1.exe
+D:\Dokuments\ООП\LR3.1\LR3.1\obj\Debug\LR3.1.pdb
